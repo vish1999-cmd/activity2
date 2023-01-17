@@ -1,4 +1,4 @@
-iimport streamlit as st 
+import streamlit as st 
 #from flask import Flask
 import pickle
 
